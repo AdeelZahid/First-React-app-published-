@@ -4,7 +4,7 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <h1>Adeel Zahid ki First React app .. </h1>,
+  <h1>Adeel Zahid first surge auto deploye app..  </h1>,
   document.getElementById('root')
 );
 
