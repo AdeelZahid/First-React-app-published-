@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Dinner from './dinner.js'
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
          Adeel Zahid on Facebook
         </a>
       </header>
+      <footer>
+          <Dinner dishName="Chicken Tikka" sweetDish="Kheer Pasta"/>
+      </footer>
     </div>
   );
 }
