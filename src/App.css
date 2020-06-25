@@ -44,3 +44,17 @@ footer{
   margin-top: 20px;
 
 }
+.letCount{
+   width: 100%;
+   min-height: 50px;
+   background-color: rgb(46, 44, 44);
+   color: white;
+   margin-top: 20px;
+   font-weight: lighter;
+   font-size: 20px;
+}
+
+.dayNight{
+  background-color: white;
+  color: black;
+}
